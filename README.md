@@ -29,6 +29,8 @@
 [04-LangChain 制作智能体.md](<AI-Agent-Tutorial/02-ai-agent-tools/04-LangChain 制作智能体.md>)
 
 [05-Claude Code入门教程.md](<AI-Agent-Tutorial/02-ai-agent-tools/05-Claude Code入门教程.md>)
+  
+[0X-AI软件开发工具 ai-code-tools](<https://github.com/ajian005/ai-code-tools>)
 
 [06-OpenCode 入门教程.md](<AI-Agent-Tutorial/02-ai-agent-tools/06-OpenCode 入门教程.md>)
 

@@ -1,4 +1,9 @@
 ## Trae Solo
+
+TRAE IDE & SOLO
+TRAE 插件
+TRAE CLI 命令行方式
+
 Trae 是字节跳动推出的一款面向开发者的 AI 集成开发环境（IDE），基于 VS Code，提供智能问答、代码自动补全以及基于 Agent 的 AI 自动编程能力。
 
 简单说就是写代码、做开发的 AI 工具，支持多种编程语言和开发场景。
