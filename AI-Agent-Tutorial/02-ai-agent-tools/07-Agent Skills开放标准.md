@@ -51,8 +51,8 @@ This skill enables skills-compatible agents to create and edit valid JSON Canvas
 
 有了这个 skill，就能让模型绘制出 obsidian 能正常解析的 canvas。
 
-原理上，直接扔这个提示词在 user message 里面也是一样的效果，不过那是人工输入的。
-而 skill 是启动时就提供所有 metadata 给 llm，让 llm 负责决策激活哪个 skill，再去加载 Instruction，更智能。
+**原理上，直接扔这个提示词在 user message 里面也是一样的效果，不过那是人工输入的。
+而 skill 是启动时就提供所有 metadata 给 llm，让 llm 负责决策激活哪个 skill，再去加载 Instruction，更智能。**
 
 下面是 Agent Skills 的标准的具体定义，整理自官方文档，不包含个人观点。
 
