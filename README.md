@@ -36,6 +36,8 @@
 
 [07-Agent Skills教程(含ClaudeCode Skills).md](<AI-Agent-Tutorial/02-ai-agent-tools/07-Agent Skills教程(含ClaudeCode Skills).md>)
 
+[07-Agent Skills开放标准.md](<AI-Agent-Tutorial/02-ai-agent-tools/07-Agent Skills开放标准.md>)
+
 [08-OpenCode Skills.md](<AI-Agent-Tutorial/02-ai-agent-tools/08-OpenCode Skills.md>)
 
 [09-Qoder CLI.md](<AI-Agent-Tutorial/02-ai-agent-tools/09-Qoder CLI.md>)
@@ -59,3 +61,29 @@
 [04-Python 智能体环境配置.md](<AI-Agent-Tutorial/03-ai-agent-develop/04-Python 智能体环境配置.md>)
 
 [05-AI Agent 问答实例.md](<AI-Agent-Tutorial/03-ai-agent-develop/05-AI Agent 问答实例.md>)
+
+
+### 04-ai-agent-skills 智能体技能
+
+[0-software-engineering-agent-skills-guilde-by-role](AI-Agent-Tutorial/04-ai-agent-skills/0-software-engineering-agent-skills-guilde-by-role)
+
+[claude-code-skills](AI-Agent-Tutorial/04-ai-agent-skills/claude-code-skills)
+
+[trae-skills](AI-Agent-Tutorial/04-ai-agent-skills/trae-skills)
+
+## Claude-Project
+
+## LangChain
+
+## LangChain-DeepAgents
+
+## LangGraph
+
+## LLAMAINDEX-RAG
+
+## Spring-AI-Alibaba-Java
+
+## CrewAI ?? 待补充
+
+## OpenClaw ?? 待补充
+
