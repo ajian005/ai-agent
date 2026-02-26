@@ -7,6 +7,9 @@ ai-agent-skills 库的主要功能包括：
 - 定义技能：使用 Python 类定义技能，每个技能都有一个唯一的名称和一个或多个方法。
 - 训练技能：使用训练数据训练技能，以便它们可以更好地执行任务。
 
+[Agent Skills开放标准.md](<../02-ai-agent-tools/07-Agent Skills开放标准.md>)
+
+
 ### Agent Skills 编写方式：
 
 
