@@ -91,12 +91,23 @@ Agent: [调用 run_command] → 确认? (Y/n)
 ```
 src/
 ├── index.ts       # CLI 入口（交互循环）
-├── agent.ts       # 核心 ReAct 循环引擎
+├── agent.ts       # 核心 ReAct 循环引擎（`streamText`）
+├── agent2.ts      # 同上能力的手写循环（`LanguageModelV1.doGenerate`，不依赖 `ai` 运行时）
 ├── provider.ts    # LLM 提供商创建（多模型切换）
 ├── tools.ts       # 3 个工具（read_file / write_file / run_command）
 ├── prompt.ts      # 系统提示词模板
 └── security.ts    # 安全检查 + 用户确认
 ```
+
+### 使用 `agent2.ts` 验证
+
+默认 `index.ts` 从 `./agent.js` 导入 `runAgent`。若要跑手写版，将导入改为：
+
+```ts
+import { runAgent } from './agent2.js';
+```
+
+`agent2.ts` 在每步结束时整段输出模型文本，而不是 token 级流式。
 
 ## 设计文档
 
