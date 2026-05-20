@@ -24,7 +24,7 @@ except Exception:
     pass
 
 # Configuration
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "sk-fscWHsRNMSQHQv0yFynKJLlG4m6Y6ufbRCVZwLUTOmo7nNCm") 
+API_KEY = os.environ.get("ANTHROPIC_API_KEY", "") 
 BASE_URL = os.environ.get("ANTHROPIC_BASE_URL", "https://www.dmxapi.cn")
 MODEL_NAME = "claude-sonnet-4-20250514" 
 
